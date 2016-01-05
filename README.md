@@ -1,2 +1,4 @@
 # hello-world
-First repository
+First repository on GitHub
+
+I love this tool!
